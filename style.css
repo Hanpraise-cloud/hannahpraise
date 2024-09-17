@@ -409,7 +409,7 @@ nav ul li a:hover::after {
 /*-------------------services-------------------*/
 #services {
     padding: 30px 0;
-    background-image: url(images/Background.png);
+    background-image: url(images/background.png);
 }
 
 
